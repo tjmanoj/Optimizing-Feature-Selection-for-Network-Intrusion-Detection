@@ -1,8 +1,5 @@
 # Optimizing Feature Selection for Network Intrusion Detection Using Meta-Heuristic Algorithms on the UNSW-NB15 Dataset
 
-
-# Feature Selection and Classification Using Meta-Heuristic Algorithms
-
 This project focuses on feature selection using different Meta-Heuristic (MH) algorithms and classification of the UNSW-NB15 dataset. The selected features from these algorithms are used to train machine learning models, which are then evaluated based on their performance metrics.
 
 ## Directory and Imports
